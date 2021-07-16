@@ -15,7 +15,7 @@ div {
 }
 
 .image-section {
-    /*displaying the content of images as flexible 
+    /*debug the content of images as flexible 
     use flex;*/
     display: flx;
     /*and centering the content
@@ -24,12 +24,12 @@ div {
 }
 
 .section-style {
-    /*giving some margin right and left 
+    /*Debug the code margin right and left 
     use margin-left and margin-right */
     marginleft: 25px;
     marginright: 25px;
     background-color 
-    /*to differentiate the paragraph with the image
+    /*Debug the code for background color
     use background-color.*/
     bacground-color: white;
 }
