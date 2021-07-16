@@ -15,11 +15,11 @@ div {
 }
 
 .image-section {
-    /*debug the content of images as flexible 
+    /*Debug the content of images as flexible 
     use flex;*/
     display: flx;
-    /*and centering the content
-    use center*/
+    /*Debug the centering the content
+    use center*/c
     justify-content: cnter;
 }
 
