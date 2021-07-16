@@ -19,7 +19,7 @@ div {
     use flex;*/
     display: flx;
     /*Debug the centering the content
-    use center*/c
+    use center*/
     justify-content: cnter;
 }
 
