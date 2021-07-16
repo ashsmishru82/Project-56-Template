@@ -3,28 +3,38 @@
 body {
     /*Add the codes here*/
     /* text-align at center and background color */
-    
+    text-align: center;
+    background-color: #f0e8c5;
 }
 
 div {
    /*Add the codes here*/
     /*let's give some margin so that the image section will be differentiated from other components*/
-  
+  margin: 15px;
+    
 }
 
 .image-section {
-    /*Add the codes here*/
-    /*displaying the content of images as flexible and centering the content */
-  
-   
+    /*displaying the content of images as flexible 
+    use flex;*/
+    display: flx;
+    /*and centering the content
+    use center*/
+    justify-content: cnter;
 }
 
 .section-style {
-    /*Add the codes here*/
-    /*giving some margin right and left as well a background color to differentiate the paragraph with the image.*/
-
-   
+    /*giving some margin right and left 
+    use margin-left and margin-right */
+    marginleft: 25px;
+    marginright: 25px;
+    background-color 
+    /*to differentiate the paragraph with the image
+    use background-color.*/
+    bacground-color: white;
 }
+
+
 
 
 
